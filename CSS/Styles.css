@@ -1,0 +1,32 @@
+body {
+    margin: 50px;
+    padding: 30px;
+}
+
+.ImageBackgroud {
+    background-image: url(../Icons/FundoSFeminino.gif);
+}
+
+.TopoLogo {
+    margin-left: 250px;
+}
+
+a:visited {
+    color: mediumblue;
+}
+
+input:focus {
+    background-color: hotpink;
+}
+
+h1 {
+    background-color: rgb(216, 212, 212);
+}
+
+.Arial {
+    font-family: Lucida Grande, Lucida Sans Unicode, Lucida Sans, DejaVu Sans, Verdana, sans-serif;
+}
+
+body div table tbody tr td {
+    font-family: Baskerville, Palatino Linotype, Palatino, Century Schoolbook L, Times New Roman, serif;
+}
